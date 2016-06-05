@@ -1,0 +1,35 @@
+#board {
+  width: 500px;
+  height: 500px;
+  margin: auto;
+  padding-top: 5%;
+  font-family: 'Indie Flower', cursive;
+}
+
+.cell {
+  outline: 1px solid;
+  float: left;
+  height: 150px;
+  width: 150px;
+  text-align: center;
+  font-size: 100px;
+}
+#instructions{
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+}
+button{
+  height: 50px;
+  width: 50px;
+  font-size: 25px;
+  font-family: 'Indie Flower', cursive;
+}
+.red{
+    background-color:red;
+}
+#clear{
+  text-align: center;
+}
+.hover{
+  background-color: #d4c9ce;
+}
